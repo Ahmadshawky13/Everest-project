@@ -2,7 +2,7 @@
   "name": "react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ahmadshawky13.github.io/Everest-project",
+  "homepage": "https://ahmadshawky13.github.io/Everest-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
