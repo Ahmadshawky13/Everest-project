@@ -33,7 +33,11 @@ export default function App() {
         { path: "contact", element: <Contact /> },
       ]
     }
-  ]);
+  ],
+  {
+    basename: "/Everest-project/",
+  }
+);
 
   return (
     <div>
