@@ -2,16 +2,20 @@
   "name": "react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ahmadshawky13.github.io/Everest-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d public"
+    
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
     "bootstrap": "^5.3.7",
+    "gh-pages": "^6.3.0",
     "i18next": "^25.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
